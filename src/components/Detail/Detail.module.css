@@ -1,0 +1,17 @@
+.barSubmmit {
+    background: #d355cb;
+    display: inline-block;
+    position:relative;
+    font-size: 20px;
+    box-sizing: border-box;
+    transition: .5s;
+    border: none;
+    outline: none;
+    padding: 10px 30px;
+    border-radius: 25px;
+    cursor: pointer;  
+}
+.barSubmmit:hover {
+    background: #4b10b1;
+    color: #fff;
+}
